@@ -28,6 +28,26 @@ A aplicação é projetada para ser responsiva, garantindo uma experiência de u
 - **Design Responsivo**: A interface foi projetada para ser completamente responsiva, se ajustando a diferentes tamanhos de tela, incluindo desktop, tablets e celulares.
 - **Interatividade**: O layout foi feito para ser intuitivo e agradável, com um foco em animações e interações visuais.
 
+## 🚀 Link para Deploy
+
+O projeto está disponível online! Você pode acessar o deploy da aplicação no seguinte link:
+
+[Anime HTTP Status Code - Deploy]([https://link-do-deploy.com](https://anime-http-status-code.vercel.app/))
+
+## 📸 Prints da Aplicação
+
+Veja abaixo alguns prints da aplicação em funcionamento:
+
+![image](https://github.com/user-attachments/assets/f264e8ad-6923-4143-9ad7-83589a9dbde9)
+![image](https://github.com/user-attachments/assets/96d26489-46e1-4cb8-82c9-57eeb576cec2)
+
+![image](https://github.com/user-attachments/assets/77a21447-d3c7-481d-9993-bace229a4852)
+![image](https://github.com/user-attachments/assets/30b94a61-9b94-40f1-9ed5-3734ca36ad85)
+![image](https://github.com/user-attachments/assets/8ebbdf1a-1cd2-407b-8ecb-a8cea38c2a32)
+![image](https://github.com/user-attachments/assets/ef92b350-8d3c-48a9-82b0-c1b82baca8d7)
+
+
+
 ## 🔧 Como Rodar o Projeto
 
 ### 1. Clone o Repositório
